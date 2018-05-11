@@ -3,6 +3,9 @@
 // My fork!
 int fork1 = 33;
 
+int newgit_from_vscode2 = 888;
+
+
 using namespace std;
 
 // TEST: color me purple
@@ -19,17 +22,18 @@ class MyClass {
 
 int newgit = 555;
 
+int newgit_from_vscode = 777;
 
 int main()
 {
     string str1 = "QQQ";
 
-    MyClass test6;
+    
     
     int test = 0;
     cout << "Hello, world!" << endl;
 
-    test += 666;
+    //test += 666;
 
     // TEST: digit separators
     int test2 = 1'000'000;
@@ -37,6 +41,8 @@ int main()
     //cerr << "Test cerr: " << test << endl;
 
 	//qqq
+
+    MyClass test7;
 
    return 0;
 }
