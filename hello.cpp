@@ -5,6 +5,7 @@ int fork1 = 33;
 
 int newgit_from_vscode2 = 888;
 
+char* str1 = "Nog een verandering";
 
 using namespace std;
 
