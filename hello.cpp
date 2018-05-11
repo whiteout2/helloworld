@@ -7,6 +7,8 @@ int newgit_from_vscode2 = 888;
 
 char* str1 = "Nog een verandering";
 
+string str2 = "Deze dan?";
+
 using namespace std;
 
 // TEST: color me purple
