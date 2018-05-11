@@ -6,6 +6,8 @@ int test3 = 22;
 
 // Can comments be commmited?
 
+int nightly_commit_from_vscode = 33;
+
 // My fork!
 int fork1 = 33;
 
