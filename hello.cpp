@@ -1,5 +1,8 @@
 #include <iostream>
 
+// My fork!
+int fork1 = 33;
+
 using namespace std;
 
 // TEST: color me purple
