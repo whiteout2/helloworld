@@ -2,6 +2,7 @@
 #include <string>
 
 // This is the master branch
+int test3 = 22;
 
 // My fork!
 int fork1 = 33;
