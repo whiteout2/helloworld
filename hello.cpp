@@ -1,4 +1,5 @@
 #include <iostream>
+#include <string>
 
 // My fork!
 int fork1 = 33;
@@ -7,7 +8,14 @@ int newgit_from_vscode2 = 888;
 
 char* str1 = "Nog een verandering";
 
-string str2 = "Deze dan?";
+std::string str2 = "Deze dan?";
+
+// Lukt dit?
+int mil = 1'000'000;
+
+// Of dit?
+int bin = 0b1010'1111'0000'0101;
+
 
 using namespace std;
 
