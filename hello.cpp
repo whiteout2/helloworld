@@ -14,6 +14,8 @@ class MyClass {
 
 };
 
+int newgit = 555;
+
 
 int main()
 {
