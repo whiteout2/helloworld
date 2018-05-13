@@ -55,6 +55,7 @@ int main()
 
     // TEST: digit separators
     int test2 = 1'000'000;
+    
     cout << "Test: " << test << endl;
     //cerr << "Test cerr: " << test << endl;
 
