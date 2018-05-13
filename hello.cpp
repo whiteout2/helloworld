@@ -4,6 +4,9 @@
 // This is the master branch
 int test3 = 22;
 
+// branch1 change
+int ch1 = 33;
+
 // Can comments be commmited?
 
 int nightly_commit_from_vscode = 33;
